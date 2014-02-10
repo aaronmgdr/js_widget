@@ -5,4 +5,12 @@
  Built following [Alex Marandon's example](http://alexmarandon.com/articles/web_widget_jquery/)
  
  
+### paste at end of body
+````<script src="widget.js" type="text/javascript"></script>````
+
+
+
+### paste where widget should be placed
+
+````<div id="widget-container">````
 
