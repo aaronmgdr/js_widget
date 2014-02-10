@@ -6,7 +6,7 @@
  
  
 ### paste at end of body
-````<script src="widget.js" type="text/javascript"></script>````
+````<script src="http://fremn.github.io/js_widget/widget.js" type="text/javascript"></script>````
 
 
 
